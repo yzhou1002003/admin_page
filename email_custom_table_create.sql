@@ -1,0 +1,21 @@
+CREATE TABLE LAUREATE_DATA.IDS_Q133060
+(
+  ID  VARCHAR2(9 CHAR)
+)
+TABLESPACE CUSTAPPL
+PCTUSED    0
+PCTFREE    10
+INITRANS   1
+MAXTRANS   255
+STORAGE    (
+            INITIAL          64K
+            NEXT             1M
+            MINEXTENTS       1
+            MAXEXTENTS       UNLIMITED
+            PCTINCREASE      0
+            BUFFER_POOL      DEFAULT
+           )
+LOGGING 
+NOCOMPRESS 
+NOCACHE
+MONITORING;
